@@ -1,40 +1,28 @@
-<h1 align="center">👋 Olá, eu sou Ariclenes Silva</h1>
+Bem-vindo(a) ao perfil do Ariclenes Silva 😁
+ <div>
+   <a href="https://github.com/arisilvadev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arisilvadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisilvadev&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <b>💻 Desenvolvedor em aprendizado | HTML • CSS • JavaScript • Python</b>
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" >
+  <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg">
+</div>
+ 
+<br>
+ 
+Pra acompanhar meu trabalho de programação me segue nas redes abaixo!
+<div> 
 
----
-
-## 🚀 Tecnologias que uso
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="50" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="160" />
-</p>
-
----
-
-## 📈 Repositórios por linguagem
-<!-- LANG_STATS_START -->
-*(aguardando atualização automática)*
-<!-- LANG_STATS_END -->
-
----
-
-## 🏆 Conquistas
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&margin-w=5" />
-</p>
-
----
-
-<p align="center">
-  🔄 Este perfil é atualizado automaticamente com estatísticas diárias
-</p>
+  <a href="https://wa.me/5581982432747" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+  <a href="mailto:arisilvadev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+    <a href="https://linkedin.com/in/josé-macêdo-13613b291" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
