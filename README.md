@@ -1,49 +1,40 @@
-<!-- Banner -->
-<div align="center">
-  <h1>👋 Olá, eu sou o Ariclenes!</h1>
-  <p>Estudante e desenvolvedor apaixonado por criar e aprender sempre 🚀</p>
-</div>
+<h1 align="center">👋 Olá, eu sou Ariclenes Silva</h1>
+
+<p align="center">
+  <b>💻 Desenvolvedor em aprendizado | HTML • CSS • JavaScript • Python</b>
+</p>
 
 ---
 
-## 📊 Estatísticas por Linguagem
-
-| Linguagem     | Repositórios | Ícone             |
-|---------------|--------------|------------------|
-| **HTML**      | 0            | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) |
-| **CSS**       | 0            | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |
-| **JavaScript**| 0            | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Python**    | 0            | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-
-*(Esses números são atualizados automaticamente via GitHub Actions)*
+## 🚀 Tecnologias que uso
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python" height="50" />
+</p>
 
 ---
 
-## 📈 Minhas estatísticas no GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="150"/>
-</div>
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias que uso
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="25"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="25"/>
-</div>
+## 📈 Repositórios por linguagem
+<!-- LANG_STATS_START -->
+*(aguardando atualização automática)*
+<!-- LANG_STATS_END -->
 
 ---
 
-## 📬 Como me encontrar
-- 📧 Email: **seuemail@exemplo.com**
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-- 🌐 Portfólio: [Seu Portfólio](https://seusite.com)
+## 🏆 Conquistas
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&margin-w=5" />
+</p>
 
 ---
 
-<div align="center">
-  <p>Feito com 💙 e dedicação.</p>
-</div>
+<p align="center">
+  🔄 Este perfil é atualizado automaticamente com estatísticas diárias
+</p>
